@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.title("🧮 Calculadora Simple")
-st.write("¡Pon a prueba lo que has aprendido!")
+st.write("Realiza operaciones matemáticas básicas")
 
 while True:
     num1 = st.number_input("Introduce el primer número", value=0.0)
